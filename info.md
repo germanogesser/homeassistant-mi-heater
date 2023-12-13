@@ -28,7 +28,7 @@ climate:
     host: <your device ip address>
     token: <your device miio token>
     name: xiaomi_heater
-    model: zhimi.heater.mc2 (optional: zhimi.heater.mc2 | zhimi.heater.zb1 | zhimi.heater.za2)
+    model: zhimi.heater.mc2 (optional: zhimi.heater.mc2 | zhimi.heater.zb1 | zhimi.heater.za2 | zhimi.heater.mca2)
 ````
 
 
